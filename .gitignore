@@ -3,3 +3,7 @@
 
 # Ignorar todos os arquivos .pdf
 *.pdf
+
+
+!templates/Template Relatório - ON + OFF.pptx
+!templates/Template Relatório - ONSHORE.pptx
