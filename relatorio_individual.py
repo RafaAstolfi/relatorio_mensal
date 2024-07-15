@@ -29,8 +29,8 @@ from pptx.enum.text import PP_ALIGN
 locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 
 
-data_fim = datetime(2024, 5, 31)  # TODO MUDAR
-folder = "TESTE2"  # TODO MUDAR
+data_fim = datetime(2024, 6, 28)  # TODO MUDAR
+folder = "JUNHO24"  # TODO MUDAR
 username = "ekho.fo"
 password = "EKH@fo2024"
 
