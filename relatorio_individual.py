@@ -35,13 +35,13 @@ username = "ekho.fo"
 password = "EKH@fo2024"
 
 
-portifolio_onshore = "1028"
-data_ini_onshore = "30062023"
+portifolio_onshore = "1002"
+data_ini_onshore = "23102023"
 
-portifolio_offshore = "22170"
-data_ini_offshore = "30062023"
+portifolio_offshore = "2000"
+data_ini_offshore = "29112023"
 
-client_name = "MAURICIO DORNELLAS TABBAL CHAMATI_g2fly"
+client_name = "CARLOS EDUARDO DE ALMEIDA MOYSES_FexExplodido"
 
 
 # Azul Claro, Laranja, Azul Escuro, Cinza, Verde, Preto, Branco
