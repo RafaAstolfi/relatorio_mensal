@@ -35,13 +35,13 @@ username = "ekho.fo"
 password = "EKH@fo2024"
 
 
-portifolio_onshore = "1002"
-data_ini_onshore = "23102023"
+portifolio_onshore = "1010"
+data_ini_onshore = "22032024"
 
 portifolio_offshore = "2000"
 data_ini_offshore = "29112023"
 
-client_name = "CARLOS EDUARDO DE ALMEIDA MOYSES_FexExplodido"
+client_name = "ANTONIO LUCIANO DE CAMARGO FILHO & MARCIA MIYUKI IOSHIHARA"
 
 
 # Azul Claro, Laranja, Azul Escuro, Cinza, Verde, Preto, Branco
@@ -1891,5 +1891,5 @@ for slide_idx in range(len(prs.slides)):
         pass
 
 prs.save(
-    f"{folder}/{client_name}_{meses[data_fim.month]}2024_aaaa.pptx")
+    f"{folder}/{client_name}_{meses[data_fim.month]}2024.pptx")
 print(f"{client_name} report DONE.")
